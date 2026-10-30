@@ -1,0 +1,37 @@
+# Build results
+[Oo]ut/
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+[xX]64/
+[xX]86/
+
+# Visual Studio / VS Code folders
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+*.nuspec
+
+# EF Core / local database
+*.db
+*.db-shm
+*.db-wal
+
+# Logs
+*.log
+
+# Rider / JetBrains
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
